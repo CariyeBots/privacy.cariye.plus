@@ -30,6 +30,11 @@ h1{
   border-radius: 10px;
 }
 
+p{
+  color: #cc3300;
+  font-size: 20px;
+}
+
 @keyframes animate{
   0%{
     background-position: 0 50%;
