@@ -25,14 +25,12 @@ section{
 h1{
   color: #fff;
   background: rgba(255,255,255,.2);
-  padding: 20px;
   font-size: 50px;
   border-radius: 10px;
 }
 
 p{
   color: #cc3300;
-  font-size: 20px;
 }
 
 @keyframes animate{
